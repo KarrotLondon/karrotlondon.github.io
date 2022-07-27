@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+>>>>>>> c74fb60... Initial commit

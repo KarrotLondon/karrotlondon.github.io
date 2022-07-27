@@ -1,12 +1,12 @@
-Black_ribbons:
-  name: Black_ribbons 
+AnotherAmazingAuthor:
+  name: AnotherAmazingAuthor 
   bio: One of the best and nicest people on the scene. Very worth knowing. Trusted opinion 5*.
   avatar: "assets/images/Black_ribbons.JPG"
   location : "London, UK"
-  links:
-    - label: "Fetlife"
-      img: "assets/images/Black_ribbons.JPG"
-      url: "https://fetlife.com/users/8945889"
+  # links:
+  #   - label: "Fetlife"
+  #     img: "assets/images/Black_ribbons.JPG"
+  #     url: "https://fetlife.com/users/8945889"
 
 KarrotLondon:
   name     : "KarrotLondon"
