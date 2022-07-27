@@ -1,0 +1,15 @@
+Black_ribbons:
+  name: Black_ribbons 
+  bio: One of the best and nicest people on the scene. Very worth knowing. Trusted opinion 5*.
+  avatar: "assets/images/Black_ribbons.JPG"
+  location : "London, UK"
+  links:
+    - label: "Fetlife"
+      img: "assets/images/Black_ribbons.JPG"
+      url: "https://fetlife.com/users/8945889"
+
+KarrotLondon:
+  name     : "KarrotLondon"
+  avatar   : "/assets/images/test1.jpg"
+  bio      : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur felis commodo nisl commodo eleifend. Morbi bibendum sed ex vel dictum. Aliquam rutrum, arcu vitae rutrum sagittis, tellus dui scelerisque nulla, ut dapibus augue lectus vel ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque quis mauris faucibus, viverra nisi eget, tincidunt erat. Donec in nisl porttitor, interdum metus eget, condimentum nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla at elit vitae quam pharetra congue in et quam. Nunc pretium, mauris id varius congue, nisl felis pulvinar ligula, at rhoncus sem arcu eget elit. Praesent a orci id ligula sollicitudin dapibus non ut elit."
+  location : "London, UK"
